@@ -4,9 +4,10 @@ body{
 }
 .navimage {
     padding: 8px;
-width: 100px;
-border-right:  solid 3px  rgb(159, 176, 163);
+    width: 100px;
+    border-right:  solid 3px  rgb(159, 176, 163);
 }
+
 .navtop{ 
    
     display: flex;  
@@ -17,17 +18,17 @@ border-right:  solid 3px  rgb(159, 176, 163);
 }   
 
 .navtitle{ 
-
     text-decoration: underline;
     padding: 8px;
     text-align: center;
     width: 40vw;
     border-right:  solid 3px  rgb(159, 176, 163);
-font-size: 1rem;
+    font-size: 1rem;
     color: rgb(159, 176, 163);
-} 
-.listheader{
+}
 
+.listheader {
+    width: 200px;
     width: 20w;
     display: flex;
     flex-direction: column;
